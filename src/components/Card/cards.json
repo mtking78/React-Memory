@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "name": "El Alacran",
+      "image":
+        "./images/01alacran.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "El Borracho",
+      "image":
+        "./images/02borracho.png",
+        "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "El Ciquero",
+      "image":
+        "./images/03cirquero.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "La Corona",
+        "image":
+          "./images/04corona.png",
+          "clicked": false
+      },
+      {
+        "id": 5,
+        "name": "El Diablo",
+        "image":
+          "./images/05diablo.png",
+          "clicked": false
+      },
+      {
+        "id": 6,
+        "name": "El Elefante",
+        "image":
+          "./images/06elefante.png",
+          "clicked": false
+      },
+      {
+        "id": 7,
+        "name": "La Estrella",
+        "image":
+          "./images/07estrella.png",
+          "clicked": false
+      },
+      {
+        "id": 8,
+        "name": "El Gallo",
+        "image":
+          "./images/08gallo.png",
+          "clicked": false
+      },
+      {
+        "id": 9,
+        "name": "La Luna",
+        "image":
+          "./images/09luna.png",
+          "clicked": false
+      },
+      {
+        "id": 10,
+        "name": "La Muerte",
+        "image":
+          "./images/10muerte.png",
+          "clicked": false
+      },
+      {
+        "id": 11,
+        "name": "El Nopal",
+        "image":
+          "./images/11nopal.jpg",
+          "clicked": false
+      },
+      {
+        "id": 12,
+        "name": "El Payaso",
+        "image":
+          "./images/12payaso.png",
+          "clicked": false
+      },
+      {
+        "id": 13,
+        "name": "La Sirena",
+        "image":
+          "./images/13sirena.png",
+          "clicked": false
+      },
+      {
+        "id": 14,
+        "name": "El Sol",
+        "image":
+          "./images/14sol.png",
+          "clicked": false
+      },
+      {
+        "id": 15,
+        "name": "El Valiente",
+        "image":
+          "./images/15valiente.png",
+          "clicked": false
+      }
+]
