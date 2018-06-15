@@ -15,5 +15,15 @@
 
 .card:active {
     box-shadow: 0 1px 2px #999, 0 1px 2px #999;
-    transform: translateY(4px);
+    transform: translateY(6px);
+}
+
+.card:hover,
+.card:focus {
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+    box-shadow: 5px 5px 4px #333;
+    z-index: 20;
+    transition: 0.5s ease;
 }
